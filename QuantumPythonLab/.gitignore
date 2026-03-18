@@ -1,0 +1,7 @@
+venv/
+qenv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+quantum_project/
